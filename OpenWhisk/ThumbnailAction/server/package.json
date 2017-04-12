@@ -1,0 +1,17 @@
+{
+  "name": "thumbnail_action",
+  "version": "1.0.0",
+  "description": "Action to resize an image into a thumbnail",
+  "dependencies": {
+    "sharp": "*",
+    "request": "*",
+    "q": "*",
+    "body-parser": "^1.11.0",
+    "btoa": "^1.1.2",
+    "express": "^4.11.2",
+    "log4js": "^0.6.20",
+    "yauzl": "^2.3.1"
+},
+  "main": "action.js",
+  "author": "Shaun Murakami"
+}
